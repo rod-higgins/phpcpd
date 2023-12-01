@@ -28,7 +28,7 @@ $ ./tools/phpcpd --version
 
 ```
 $ php phpcpd.phar --fuzzy wordpress-5.5
-phpcpd 6.0.0 by Sebastian Bergmann.
+phpcpd 1.0.0 by Rod Higgins (from work of Sebastian Bergmann).
 
 Found 121 clones with 8137 duplicated lines in 69 files:
 
